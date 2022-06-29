@@ -2,7 +2,7 @@
 
 Welcome to learn Azure-Infrastructure-Solutions repo, intended to prep you for AZ-305 exam.
 
-<b>Note:</b> the repo is still <b>[In-Progress]</b> and is getting developer, thus make your contributions :)
+<b>Note:</b> the repo is still <b>[In-Progress]</b> and is getting developed. Thus, please make your contributions :)
 
 ---
 
