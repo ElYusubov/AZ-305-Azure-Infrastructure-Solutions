@@ -1,1 +1,1 @@
-# Chapter 2
+## Chapter 2 - Design an application architecture

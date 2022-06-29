@@ -15,12 +15,21 @@ Welcome to learn Azure-Infrastructure-Solutions repo, intended to prep you for A
 ### Chapter 1
 [Back To Top](#Table-Of-Contents)
 - [Content](/Chapter-1/Readme.md)
+- [Deployment scripts]()
+- [Sample scenario 1]()
 
 ### Chapter 2
 [Back To Top](#Table-Of-Contents)
+- [Content](/Chapter-2/Readme.md)
+- [Deployment scripts]()
+- [Sample scenario 2]()
 
 ### Chapter 3
 [Back To Top](#Table-Of-Contents)
+- [Content](/Chapter-3/Readme.md)
+- [Sample scenario 3]()
 
 ### Chapter 4
 [Back To Top](#Table-Of-Contents)
+- [Content](/Chapter-4/Readme.md)
+- [Sample scenario 4]()
