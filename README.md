@@ -1,4 +1,4 @@
-# AZ-305-Azure-Infrastructure-Solutions (In-Progress)
+# AZ-305-Azure-Infrastructure-Solutions [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
 Welcome to learn Azure-Infrastructure-Solutions repo, intended to prep you for AZ-305 exam.
 
