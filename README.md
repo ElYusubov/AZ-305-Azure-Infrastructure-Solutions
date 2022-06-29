@@ -14,6 +14,7 @@ Welcome to learn Azure-Infrastructure-Solutions repo, intended to prep you for A
 
 ### Chapter 1
 [Back To Top](#Table-Of-Contents)
+- [Content](/Chapter-1/Readme.md)
 
 ### Chapter 2
 [Back To Top](#Table-Of-Contents)
