@@ -18,8 +18,13 @@
 - [Azure Web Application Firewall on Azure Content Delivery Network from Microsoft](https://docs.microsoft.com/azure/web-application-firewall/cdn/cdn-overview?WT.mc_id=AZ-MVP-5004750)
 - [How network security groups filter network traffic](https://docs.microsoft.com/azure/virtual-network/network-security-group-how-it-works?WT.mc_id=AZ-MVP-5004750)
 
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
+- [Tutorial: Route network traffic with a route table using the Azure portal](https://docs.microsoft.com/azure/virtual-network/tutorial-create-route-table-portal?WT.mc_id=AZ-MVP-5004750)
+- [Custom routes](https://docs.microsoft.com/azure/virtual-network/virtual-networks-udr-overview?WT.mc_id=AZ-MVP-5004750#custom-routes)
+- [Azure Traffic Manager documentation](https://docs.microsoft.com/azure/traffic-manager/?WT.mc_id=AZ-MVP-5004750)
+- [What is Azure Load Balancer?](https://docs.microsoft.com/azure/load-balancer/load-balancer-overview?WT.mc_id=AZ-MVP-5004750)
+- [What is Azure Application Gateway?](https://docs.microsoft.com/azure/application-gateway/overview?WT.mc_id=AZ-MVP-5004750)
+
+
+- [Azure Service-level agreements (SLA)](https://azure.microsoft.com/support/legal/sla/?WT.mc_id=AZ-MVP-5004750)
+- [Azure Pricing](https://azure.microsoft.com/pricing/?WT.mc_id=AZ-MVP-5004750)
+- [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5004750)
