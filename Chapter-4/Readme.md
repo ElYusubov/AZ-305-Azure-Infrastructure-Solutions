@@ -12,11 +12,11 @@
 - [Connect an on-premises network to Azure using ExpressRoute](https://docs.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover?WT.mc_id=AZ-MVP-5004750)
 - [Hub-spoke network topology with Azure Virtual WAN](https://docs.microsoft.com/azure/architecture/networking/hub-spoke-vwan-architecture?WT.mc_id=AZ-MVP-5004750)
 
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
-- [xxxx](yyyyzzz)
+- [Quickstart: Create and configure Azure DDoS Protection Standard](https://docs.microsoft.com/azure/ddos-protection/manage-ddos-protection?WT.mc_id=AZ-MVP-5004750)
+- [What is Azure Private Link?](https://docs.microsoft.com/azure/private-link/private-link-overview?WT.mc_id=AZ-MVP-5004750)
+- [What is Azure Firewall?](https://docs.microsoft.com/azure/firewall/overview?WT.mc_id=AZ-MVP-5004750)
+- [Azure Web Application Firewall on Azure Content Delivery Network from Microsoft](https://docs.microsoft.com/azure/web-application-firewall/cdn/cdn-overview?WT.mc_id=AZ-MVP-5004750)
+- [How network security groups filter network traffic](https://docs.microsoft.com/azure/virtual-network/network-security-group-how-it-works?WT.mc_id=AZ-MVP-5004750)
 
 - [xxxx](yyyyzzz)
 - [xxxx](yyyyzzz)
