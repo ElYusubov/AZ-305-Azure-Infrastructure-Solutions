@@ -1,5 +1,8 @@
 ## Chapter 3 - Design migrations
 
+### Reference documentation links 
+<br/>
+
 - [Azure migration guide overview](https://docs.microsoft.com/azure/cloud-adoption-framework/migrate/azure-migration-guide/?azure-portal=true&tabs=MigrationTools&WT.mc_id=AZ-MVP-5004750)
 - [The One Migrate approach to migrating the IT portfolio](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/?azure-portal=true&WT.mc_id=AZ-MVP-5004750)
 - [Azure cloud migration best practices checklist](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/?azure-portal=true&WT.mc_id=AZ-MVP-5004750)

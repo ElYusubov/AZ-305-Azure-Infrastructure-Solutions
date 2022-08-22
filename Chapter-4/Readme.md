@@ -1,5 +1,8 @@
 ## Chapter 4 - Design network solutions
 
+### Reference documentation links 
+<br/>
+
 - [Connect an on-premises network to Azure](https://docs.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/?WT.mc_id=AZ-MVP-5004750)
 - [Azure networking services overview](https://docs.microsoft.com/azure/networking/fundamentals/networking-overview?WT.mc_id=AZ-MVP-5004750)
 - [Multi-region load balancing with Traffic Manager and Application Gateway](https://docs.microsoft.com/azure/architecture/high-availability/reference-architecture-traffic-manager-application-gateway?WT.mc_id=AZ-MVP-5004750)
@@ -23,7 +26,6 @@
 - [Azure Traffic Manager documentation](https://docs.microsoft.com/azure/traffic-manager/?WT.mc_id=AZ-MVP-5004750)
 - [What is Azure Load Balancer?](https://docs.microsoft.com/azure/load-balancer/load-balancer-overview?WT.mc_id=AZ-MVP-5004750)
 - [What is Azure Application Gateway?](https://docs.microsoft.com/azure/application-gateway/overview?WT.mc_id=AZ-MVP-5004750)
-
 
 - [Azure Service-level agreements (SLA)](https://azure.microsoft.com/support/legal/sla/?WT.mc_id=AZ-MVP-5004750)
 - [Azure Pricing](https://azure.microsoft.com/pricing/?WT.mc_id=AZ-MVP-5004750)
